@@ -1,0 +1,9 @@
+/*
+ * index.css: loads Tailwind CSS into the app.
+ * base resets browser styles, components adds component classes,
+ * and utilities provides the class names used throughout the pages.
+ */
+ 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
